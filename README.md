@@ -26,8 +26,5 @@ A Software that **instantly stops and disables the Windows Update service** on W
    ENTER THE ACCOUNT USERNAME OF YOUR ADMINISTRATOR ACCOUNT OF YOUR PC
    THEN ENTER THE PASSWORD AND HIT STOP PERMANENTLY
    
-FOR EASE :
-	SET IT TO TASK SCHEDULER FOR EVERY 1 min repeatition with the setting: "RUN WHETHER USER LOGGED IN OR NOT"
-
 
 	
