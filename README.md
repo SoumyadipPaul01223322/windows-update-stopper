@@ -4,8 +4,7 @@ A Software that **instantly stops and disables the Windows Update service** on W
 
 ## 🚀 Features
 ✅ **Fast Execution** – Stops and disables Windows Update in seconds  
-✅ **Admin Privileges Handling** – Automatically requests admin rights  
-✅ **Hacker-Style Terminal Output** – Stylish and colorful output  
+✅ **Admin Privileges Handling** – Automatically requests admin rights   
 ✅ **Safe Execution** – Does not modify system files, only service settings  
 
 ## 📌 Prerequisites
