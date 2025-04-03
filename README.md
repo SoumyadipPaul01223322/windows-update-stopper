@@ -1,4 +1,4 @@
-# Windows Update Disabler 🚀
+# Windows Update Permanently Disabler 🚀
 
 A Software that **instantly stops and disables the Windows Update service** on Windows. The script ensures the Windows Update service (`wuauserv`) is **forcefully terminated** and **disabled** for users who want full control over updates.
 
